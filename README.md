@@ -1,6 +1,6 @@
-# Meira Coffee
+# MR Tyres Puliyanmala
 
-Landing page for meira coffee
+Landing page for MR Tyres Puliyanmala
 
 ## Demo
 [Demo](https://meiracoffee.vercel.app/) at VERCEL

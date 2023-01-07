@@ -66,7 +66,7 @@ const messages = {
     },
     aboutPage: {
       title: "Know",
-      description: "MEIRA Coffee are exporters of leading commodities in one of the regencies in Riau, namely the Meranti Islands. built by people who share the same vision, and manage to serve clients professionally.",
+      description: "MR Tyres Puliyanmala are exporters of leading commodities in one of the regencies in Riau, namely the Meranti Islands. built by people who share the same vision, and manage to serve clients professionally.",
       thankGreeting: "We are very grateful for all our partners and clients, Following the moment and will always serve the best for all.",
       visi: {
         title: "Vision",
@@ -145,7 +145,7 @@ const messages = {
     },
     aboutPage: {
       title: "Ketahui",
-      description: "MEIRA Coffee adalah pengekspor komoditas unggulan di salah satu kabupaten di Provinsi Riau, yaitu Kepulauan Meranti. dibangun oleh orang-orang yang memiliki visi yang sama, dan mengelola untuk melayani klien dengan profesional.",
+      description: "MR Tyres Puliyanmala adalah pengekspor komoditas unggulan di salah satu kabupaten di Provinsi Riau, yaitu Kepulauan Meranti. dibangun oleh orang-orang yang memiliki visi yang sama, dan mengelola untuk melayani klien dengan profesional.",
       thankGreeting: "Thank you for sending us a message, we will respond in the near future.",
       visi: {
         title: "Visi",
