@@ -84,8 +84,8 @@ const messages = {
     lang: "Indonesia",
     menu: ["Beranda", "Produk", "Tentang Kami", "Kontak"],
     contactButton: "Hubungi Sekarang",
-    address: "Jalan Merbau, Selatpanjang Kota",
-    city: "Kab. Kepulauan Meranti, Riau, Indonesia",
+    address: "Puliyanmala - Thookupalam Rd, Thookkupalam, Kerala 685552",
+    city: "Puliyanmala - Thookupalam Rd, Thookkupalam, Kerala 685552",
     productsNav: "Jelajahi Produk",
     heroSection: {
       title: "Eksportir Pinang Kualitas Terpercaya",
