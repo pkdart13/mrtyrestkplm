@@ -38,9 +38,9 @@ const messages = {
       smallTitle: "Let's check",
       bigTitle: "Our Product",
       productSmallTitle: "Our main product are",
-      productTitle: "Areca Nut",
+      productTitle: "Areca",
       description:
-        "Areca nut is a plant belonging to palms. This tree is one of the plants with high economic value and potential. Areca nut is mainly grown for its seeds. Areca nut has many benefits, so that currently areca nut has become a trading commodity.",
+        "This tree is one of the plants with high economic value and potential. Areca nut is mainly grown for its seeds. Areca nut has many benefits, so that currently areca nut has become a trading commodity.",
       variantTitle: "We export one of kind",
       variant: "Areca Nuts",
       variantDescription:
