@@ -15,7 +15,7 @@
       <div class="hidden md:block flex-initial">
         <ul class="nav-item-wrapper">
           <li class="text-gray-600 hover:text-gray-900">
-            <router-link to="/admin/dashboard"> Pesan </router-link>
+            <router-link to="/admin/dashboard"> Admin </router-link>
           </li>
           <li class="text-gray-600 hover:text-gray-900">
             <button
@@ -54,7 +54,7 @@
     <div v-if="menuMobileState" class="block md:hidden border-t-2">
       <div class="grid gap-2 w-full p-4">
         <div class="w-full py-1" @click="menuMobile">
-          <router-link to="/" class="w-min text-xl">Pesan</router-link>
+          <router-link to="/" class="w-min text-xl">Admin</router-link>
           <button
             @click="signOut"
             class="
