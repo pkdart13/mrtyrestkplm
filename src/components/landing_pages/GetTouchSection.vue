@@ -91,8 +91,7 @@
         >
           <smiley-icon />
           <p class="text-center font-semibold text-lg">
-            Terima kasih telah mengirimkan pesan, akan kami tanggapi dalam waktu
-            dekat.
+            Thank you for sending us a message, we will respond in the near future.
           </p>
         </div>
         <!-- Form -->

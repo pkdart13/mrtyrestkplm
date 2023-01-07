@@ -146,7 +146,7 @@ const messages = {
     aboutPage: {
       title: "Ketahui",
       description: "MEIRA Coffee adalah pengekspor komoditas unggulan di salah satu kabupaten di Provinsi Riau, yaitu Kepulauan Meranti. dibangun oleh orang-orang yang memiliki visi yang sama, dan mengelola untuk melayani klien dengan profesional.",
-      thankGreeting: "Kami sangat berterima kasih untuk semua mitra dan klien kami, Mengikuti momen dan akan selalu melayani yang terbaik untuk semua.",
+      thankGreeting: "Thank you for sending us a message, we will respond in the near future.",
       visi: {
         title: "Visi",
         desc: "Menjadi pengekspor dengan layanan pelanggan kualitas dunia dan memajukan ekonomi bersama",
