@@ -12,7 +12,7 @@
       bg-gray-200
     "
   >
-    <p class="font-bold text-4xl">Pesan Masuk</p>
+    <p class="font-bold text-4xl">Messages</p>
     <div class="pt-10 w-full">
       <ul class="w-full">
         <li
