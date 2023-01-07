@@ -5,8 +5,8 @@ const messages = {
     lang: "English",
     menu: ["Home", "Products", "About Us", "Contact"],
     contactButton: "Contact Now",
-    address: "Merbau Street, Selatpanjang Kota",
-    city: "Kab. Kepulauan Meranti, Riau, Indonesia",
+    address: "Puliyanmala - Thookupalam Rd, Thookkupalam, Kerala 685552",
+    city: "idukki, Kerala",
     productsNav: "Explore Products",
     heroSection: {
       title: "Trusted Quality Areca Nut Exporter",
