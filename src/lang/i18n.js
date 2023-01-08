@@ -9,9 +9,9 @@ const messages = {
     city: "idukki, Kerala",
     productsNav: "Explore Products",
     heroSection: {
-      title: "Trusted Quality Areca Nut Exporter",
+      title: "Roll with us for the best ride on the road",
       subtitle:
-        "We are exporters of products in the Meranti Islands. One of them is high quality areca nut, typical of the peat land of the Meranti Islands",
+        "We offer a wide selection of tyres from leading brands, as well as expert advice and installation services. Our experienced staff are on hand to help you find the perfect tyre for your vehicle, ensuring you get the best performance and value for money. Whether you're looking for new tyres, replacements or repairs, we have the right solution for you.",
       getStartedButton: "Get Started",
       ExploreButton: "Explore",
     },
