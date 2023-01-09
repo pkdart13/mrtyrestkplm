@@ -29,7 +29,7 @@
     </div>
     <div class="bg-green-700 py-2">
       <p class="text-center text-lg font-medium text-green-50">
-        MR Tyres Puliyanmala &copy; 2021 &bull; All Right Reserved | Dev. by <a href="https://www.techypranav.eu.org/" class="hover:underline" target="_blank">PKD</a>
+        MR Tyres Puliyanmala &copy; 2021 &bull; All Right Reserved <a href="#" class="hover:underline" target="_blank">MR TYRES</a>
       </p>
     </div>
   </footer>
