@@ -20,9 +20,9 @@
         <div class="">
           <p class="text-xl font-semibold text-gray-900">Social Media</p>
           <ul class="flex flex-col text-lg font-light space-y-1 mt-2 text-gray-800 cursor-pointer">
-            <a href="https://facebook.com/" class="hover:text-white hover:underline">Facebook</a>
+            <a href="https://www.facebook.com/profile.php?id=100086533851025&mibextid=ZbWKwL" class="hover:text-white hover:underline">Facebook</a>
             <a href="https://instagram.com/" class="hover:text-white hover:underline">Instagram</a>
-            <a href="https://wa.me/+6282170548877" class="hover:text-white hover:underline">Whatsapp</a>
+            <a href="https://wa.me/+919447825224" class="hover:text-white hover:underline">Whatsapp</a>
           </ul>
         </div>
       </div>

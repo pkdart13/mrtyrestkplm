@@ -33,7 +33,7 @@
         <div class="flex w-full gap-4">
           <a
             target="_blank"
-            href="https://facebook.com/"
+            href="https://www.facebook.com/profile.php?id=100086533851025&mibextid=ZbWKwL"
             class="bg-white hover:bg-green-100 rounded-full hover:shadow-md p-4"
           >
             <img
@@ -55,7 +55,7 @@
           </a>
           <a
             target="_blank"
-            href="https://wa.me/+6282170548877"
+            href="https://wa.me/+919447825224"
             class="bg-white hover:bg-green-100 rounded-full hover:shadow-md p-4"
           >
             <img
