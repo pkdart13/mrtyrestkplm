@@ -93,6 +93,7 @@
 import app from "./../../firebaseInit";
 import { addDoc, getFirestore, collection } from "firebase/firestore";
 const db = getFirestore(app);
+const axios = require('axios');
 
 import LocationIcon from "./../../components/icons/LocationIcon.vue";
 import PhoneIcon from "./../../components/icons/PhoneIcon.vue";
@@ -122,34 +123,10 @@ export default {
   },
   methods: {
     submitMessageContact: async function () {
-      if (this.nama && this.email && this.pesan) {
-        this.loading = !this.loading;
-        try {
-          await addDoc(collection(db, "messages"), {
-            name: this.nama,
-            mail: this.email,
-            message: this.pesan,
-            date: new Date().toLocaleString()
-          });
-        } catch (error) {
-          this.firebaseError = error;
-        } finally {
-          this.loading = !this.loading;
-          this.isSending = true;
-        }
-      } else {
-        this.errors = [];
-
-        if (!this.nama) {
-          this.errors.push("nama");
-        }
-        if (!this.email) {
-          this.errors.push("email");
-        }
-        if (!this.pesan) {
-          this.errors.push("pesan");
-        }
-      }
+      const response = await axios.post(`https://api.telegram.org/bot1836057993:AAF4cP9qNx3gFh-epkgjBRYkALyzVs6W0gw/sendMessage`, {
+    chat_id: 1196575861,
+    text: "hello"
+  });
     },
   },
 };
